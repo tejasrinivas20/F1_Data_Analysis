@@ -31,7 +31,6 @@ cd FastF1_EDA
 ```
 ### Acknowledgments
 
-- Formula 1 data used in this analysis is sourced from [Your Source Here] and is for educational purposes only.
-- Special thanks to the open-source community for creating and maintaining the tools and libraries used in this analysis.
+- Formula 1 data used in this analysis is sourced from [Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?resource=download&select=results.csv).
 
 Happy analyzing! 🏁🏎️
